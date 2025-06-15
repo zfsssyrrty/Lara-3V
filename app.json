@@ -13,6 +13,12 @@
       "value": ""
     },  
     
+    "OWNER_NUMBER": {
+      "description": "Set bot prefix(Set your owner number)",
+      "required": true,
+      "value": "94779062397"
+    },
+    
     "PREFIX": {
       "description": "Set bot prefix(#,$,-!,?)",
       "required": true,
@@ -70,13 +76,25 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want bot auto typing",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
       "value": "false"
+    },
+    
+      "CUSTOME_REACT": {
+      "description": "Make it true if you want bot custome react.",
+      "required": true,
+      "value": "true"
+    },
+    
+      "CUSTOME_REACT_EMOJI": {
+      "description": "Custome react emojis.",
+      "required": true,
+      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     },
     
     "ANTI_LINK": {
@@ -113,6 +131,24 @@
       "description": "Inbox Auto block",
       "required": true,
       "value": "false"
+    },
+    
+     "WELCOME": {
+      "description": "Set Group welcome massage",
+      "required": true,
+      "value": "true"
+    },
+    
+     "GOODBYE": {
+      "description": "Set Group goodbye massage",
+      "required": true,
+      "value": "true"
+    },
+    
+     "ADMIN_EVENTS": {
+      "description": "Set Group admin admin events",
+      "required": true,
+      "value": "true"
     }
 
 },
