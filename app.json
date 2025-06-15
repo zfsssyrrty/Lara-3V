@@ -127,6 +127,12 @@
       "value": "true"
     },
     
+    "ANTI_DELETE_PATH": {
+      "description": "Set anti delete path (inbox/same)",
+      "required": true,
+      "value": "same"
+    },
+    
     "INBOX_BLOCK": {
       "description": "Inbox Auto block",
       "required": true,
