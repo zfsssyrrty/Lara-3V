@@ -1,4 +1,4 @@
-`Update On : 2025.02.25`
+`Update On : 2025.06.15`
 
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
@@ -32,10 +32,10 @@
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් click කරන්න)</h5> 
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-jxq2.onrender.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://lexical-anastasia-tharumin-0408c6c2.koyeb.app">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-jxq2.onrender.com">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://lexical-anastasia-tharumin-0408c6c2.koyeb.app">🌸 SESSION_ID 🌸 ❷</a></tr></button>
 </div>
 <br>
 
@@ -58,7 +58,7 @@
 --------	 
 1.  #### DEPLOY IN HEROKU 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tharumin/Lara-3V)
 
 --------
 2.  #### DEPLOY IN REPLIT
