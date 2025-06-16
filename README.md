@@ -1,4 +1,4 @@
-`Update On : 2025.06.15`
+`Update On : 2025.06.17`
 
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
