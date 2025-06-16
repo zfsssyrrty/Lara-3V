@@ -14,7 +14,13 @@
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set bot prefix(Set your owner number)",
+      "description": "Set your owner number",
+      "required": true,
+      "value": "94779062397"
+    },
+
+    "DEV": {
+      "description": "Bot Developer Numeber",
       "required": true,
       "value": "94779062397"
     },
@@ -125,12 +131,6 @@
       "description": "Delete massages show",
       "required": true,
       "value": "true"
-    },
-    
-    "ANTI_DELETE_PATH": {
-      "description": "Set anti delete path (inbox/same)",
-      "required": true,
-      "value": "same"
     },
     
     "INBOX_BLOCK": {
