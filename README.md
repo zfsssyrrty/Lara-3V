@@ -148,11 +148,11 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>🌸 LARA-MD Developer Team 👤</h3>
+<h3>🌸 LARA-MD DEVELOPER TEAM 👤</h3>
 
 | SADEESHA 👤              | WISWAJITH 👤              |
 |---------------------|---------------------|
-[![Owner](https://files.catbox.moe/97src1.jpg)](https://github.com/sadiyamin/) width="100" height="100"| [![Wiswajith](https://files.catbox.moe/gpurnm.jpg)](https://github.com/sadiyamin/) |
+[![Owner](https://i.ibb.co/63zDkQy/IMG-20250513-135909-02.jpg)](https://github.com/sadiyamin/) | [![Wiswajith](https://i.ibb.co/R4sCSLDw/IMG-20250618-WA0052.jpg)](https://github.com/sadiyamin/) |
 </div>
 <hr>
 
