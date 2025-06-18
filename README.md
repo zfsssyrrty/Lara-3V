@@ -1,5 +1,5 @@
 `Update On : 2025.06.18`
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
 <img src="https://i.ibb.co/TD5qh4JJ/20250224-022914.jpg" width="300" height="150">
@@ -152,7 +152,7 @@ jobs:
 
 | SADEESHA 👤              | WISWAJITH 👤              |
 |---------------------|---------------------|
-[![Owner](https://files.catbox.moe/97src1.jpg)](https://github.com/sadiyamin/) | [![Wiswajith](https://files.catbox.moe/gpurnm.jpg)](https://github.com/sadiyamin/) |
+[![Owner](https://files.catbox.moe/97src1.jpg)](https://github.com/sadiyamin/) width="100" height="100"| [![Wiswajith](https://files.catbox.moe/gpurnm.jpg)](https://github.com/sadiyamin/) |
 </div>
 <hr>
 
