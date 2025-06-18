@@ -1,4 +1,4 @@
-`Update On : 2025.06.17`
+`Update On : 2025.06.18`
 
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
@@ -32,7 +32,7 @@
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් click කරන්න)</h5> 
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://lexical-anastasia-tharumin-0408c6c2.koyeb.app">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://main-pair.onrender.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <h3>SEVER ❷</h3>
 <div align="center">
 <button><tr><a href="https://lexical-anastasia-tharumin-0408c6c2.koyeb.app">🌸 SESSION_ID 🌸 ❷</a></tr></button>
@@ -150,9 +150,9 @@ jobs:
 <div align="center">
 <h3>🌸 LARA-MD Developer Team 👤</h3>
 
-| SADEESHA 👤              | VIHANGA 👤              |
+| SADEESHA 👤              | WISWAJITH 👤              |
 |---------------------|---------------------|
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/) |
+[![Owner](https://files.catbox.moe/97src1.jpg)](https://github.com/sadiyamin/) | [![Wiswajith](https://files.catbox.moe/gpurnm.jpg)](https://github.com/sadiyamin/) |
 </div>
 <hr>
 
