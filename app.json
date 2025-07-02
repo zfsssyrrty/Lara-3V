@@ -72,6 +72,12 @@
       "required": true,
       "value": "true"
     },
+
+    "AUTO_BIO": {
+      "description": "Make it true if you want bot auto bio",
+      "required": true,
+      "value": "true"
+    },
     
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
