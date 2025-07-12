@@ -1,8 +1,8 @@
-`Update On : 2025.07.11`
+`Update On : 2025.07.12`
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/Gfj3PWGG/20250224-022914.jpg" width="300" height="150">
+<img src="https://i.ibb.co/ZRnmZw6f/20250709-134308.jpg" width="300" height="150">
 </div>
 <div align="center">
 </p>
@@ -32,10 +32,10 @@
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් click කරන්න)</h5> 
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://lara-v3-pair.onrender.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://managing-katalin-tharumin-2411035f.koyeb.app/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://lara-v3-pair.onrender.com">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://managing-katalin-tharumin-2411035f.koyeb.app/">🌸 SESSION_ID 🌸 ❷</a></tr></button>
 </div>
 <br>
 
